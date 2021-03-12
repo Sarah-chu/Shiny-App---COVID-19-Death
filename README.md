@@ -1,7 +1,7 @@
 # Shiny-App---COVID-19-Death
 # Data Visualization of COVID-19 Death with Shiny App in R
 
-![shinyApp](/Rshiny_web_interface)
+![shinyApp](/Rshiny_web_interface.png)
 
 It is an [interactive site](https://suet-wah-chu.shinyapps.io/testui/?_ga=2.238267977.83272496.1606164025-724514677.1602514887) created with Shiny App. 	\
 You can check out the dealth rate and death rate per capita of each country from January 2020 to September 2020,
